@@ -1,7 +1,7 @@
 - 👋 Olá eu sou a @karineeeeeeeeeee
 - 👀 Meu primeiro arquivo em HTML</h1>
 - 🌱 </html
-- 💞️ I’m looking to collaborate on ...
+- 💞️ 
 - 📫 How to reach me ...
 
 <!---
